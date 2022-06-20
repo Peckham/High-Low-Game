@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DiceGameViewer",
+            "request": "launch",
+            "mainClass": "labs.DiceGameViewer",
+            "projectName": "dicegame"
+        }
+    ]
+}
